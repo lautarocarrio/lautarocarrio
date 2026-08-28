@@ -132,7 +132,7 @@ Development
 ## 📫 Contact
 
 <p>
-  <a href="https://www.linkedin.com/lautarocarrio">
+  <a href="https://www.linkedin.com/in/lautarocarrio/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:lautacb@gmail.com">
